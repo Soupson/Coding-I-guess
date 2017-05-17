@@ -1,2 +1,10 @@
-// Hey guys welcome to my program
-computer science
+// Strings & Arrays
+// Zachary, Monir, and Chelsea
+
+class StringsAndArrays
+{
+   public static void main (String[] args)
+  {
+      // count letters
+   }
+} 
