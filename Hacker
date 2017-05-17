@@ -1,10 +1,23 @@
-// Strings & Arrays
-// Zachary, Monir, and Chelsea
-
-class StringsAndArrays
+class YourProgramName
 {
    public static void main (String[] args)
-  {
-      // count letters
+  {          
+      String sentence;
+      
+      System.out.println("Enter your sentence.");
+        sentence = In.getString();
+      
+        
+        // count letters
+                        
+        
    }
+   
+   public static countLetters(sentence)
+   {
+     
+     //This is where Z's subprogramwillgo
+   }
+   
+   
 } 
